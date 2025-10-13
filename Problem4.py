@@ -1,5 +1,5 @@
 #Problem4.py
-#Project Euler problem 4
+#project Euler problem 4
 
 from NumberTests import find_largest_palindrome_product
 
